@@ -1,5 +1,5 @@
 {
-    "name": "magepack",
+    "name": "od_magepack",
     "version": "2.11.2",
     "bin": "./cli.js",
     "repository": "https://github.com/magesuite/magepack.git",
